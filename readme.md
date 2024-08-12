@@ -8,3 +8,5 @@ This repo has a dev container. This means if you open it inside a [GitHub Codesp
 
 To get domain email (use NORDVPN to USA) -> https://www.zoho.com/
 -> Mail -> Pricing -> Scroll to Bottom -> Free plan
+
+Heres the tutorial for it -> https://www.youtube.com/watch?v=9_ZVsp21Xyg&t=0s
